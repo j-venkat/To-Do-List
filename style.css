@@ -1,0 +1,37 @@
+
+    body {
+      font-family: Arial;
+      padding: 20px;
+    }
+    ul {
+      padding: 0;
+      list-style: none;
+    }
+    li {
+      padding: 8px;
+      margin: 5px 0;
+      background: #f0f0f0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .done {
+      text-decoration: line-through;
+      color: green;
+    }
+  .taskbar{
+    text-align: center;
+    padding: 5px;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    }
+   button{
+    padding: 5px 15px;
+    background-color: tomato;
+    cursor: pointer;
+    font-size: 0.9rem;
+    
+   }
+   
